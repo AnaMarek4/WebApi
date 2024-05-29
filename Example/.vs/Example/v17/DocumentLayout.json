@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApi\\Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|d:\\webapi\\example\\examplewebapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D646B68-6254-419D-B229-09094437A54F}|ExampleWebApi\\ExampleWebApi.csproj|solutionrelative:examplewebapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\Product.cs",
+              "RelativeDocumentMoniker": "ExampleWebApi\\Product.cs",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\Product.cs",
+              "RelativeToolTip": "ExampleWebApi\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:01:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\WebApi\\Example\\ExampleWebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ExampleWebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\WebApi\\Example\\ExampleWebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ExampleWebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:28:35.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
